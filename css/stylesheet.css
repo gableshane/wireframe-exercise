@@ -1,0 +1,32 @@
+div {
+    display: inline-block;
+}
+li {
+    display: inline;
+    margin-right: 10px;
+}
+nav img {
+    float: left;
+}
+nav div {
+    display: inline;
+}
+header {
+    height: 100px;
+}
+main div {
+    margin-right: 10px;
+    margin: 0 auto; 
+    padding: 10px;
+}
+#paraLeft {
+    float: left;
+}
+p {
+    margin-right: 220px;
+}
+#bottom {
+    height: 100px;
+    background-color: grey;
+    margin-top: 10px;
+}
