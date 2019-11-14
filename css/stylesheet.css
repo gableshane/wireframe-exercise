@@ -1,32 +1,52 @@
-div {
-    display: inline-block;
+.image-wrapper {
+    margin: 1% 0 0 5%;
 }
-li {
+nav {
+    height: 70px;
+    padding: 10px;
+    background-color: grey; 
+    margin-bottom: 20px;
+
+}
+nav ul {
+    padding-top: 25px;
+}
+nav li {
     display: inline;
-    margin-right: 10px;
+    padding: 15px;
+    padding-right: 8%;
 }
 nav img {
     float: left;
+    margin-left: 60px;
 }
-nav div {
-    display: inline;
+.inline-images img {
+    margin: 30px 5px 30px 10px;
 }
-header {
-    height: 100px;
+p img {
+    float: left;
 }
-main div {
-    margin-right: 10px;
-    margin: 0 auto; 
-    padding: 10px;
-}
-#paraLeft {
+#bottom-image {
+    margin-left: 80px;
+    margin-right: 30px;
+    height: 400px;
     float: left;
 }
 p {
-    margin-right: 220px;
+    margin-right: 28%;
+    margin-left: 10px;
 }
-#bottom {
-    height: 100px;
-    background-color: grey;
+button {
+    color: white;
+    background: black;
+    padding: 10px 20px 10px 20px;
     margin-top: 10px;
+}
+.paragraphs {
+    margin-left: 10px;
+}
+footer {
+    background-color: grey;
+    height: 100px;
+    margin-top: 30px;
 }
